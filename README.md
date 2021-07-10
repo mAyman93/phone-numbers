@@ -20,5 +20,8 @@ composer install
 npm install
 ```
 ```bash
+npm run prod
+```
+```bash
 php artisan serve
 ```
